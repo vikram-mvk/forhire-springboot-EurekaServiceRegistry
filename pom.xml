@@ -52,6 +52,8 @@
 
 
 	<build>
+		<finalName>EurekaServer-Microservice</finalName>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
